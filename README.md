@@ -9,7 +9,7 @@ lung_data <- read.csv("/Users/saharsana/Desktop/lung_capacity_data.csv")
 str(lung_data)
 
 # Summary statistics of the dataset
-summary(lung_data)
+summary(lung_data) 
 
 #Question1
 
