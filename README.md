@@ -127,7 +127,7 @@ ggplot(lung_data, aes(x = Smoke, y = LungCap, fill = Gender)) +
        fill = "Gender") +
   theme_minimal()
 
-#TO make it in 1 plot
+#or: 
 
 
 # Load necessary libraries
